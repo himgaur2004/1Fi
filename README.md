@@ -2,6 +2,17 @@
 
 A modern full-stack smartphone financing platform that enables users to browse flagship devices, configure editions and colors, and select flexible EMI installment plans backed by investment portfolios.
 
+---
+
+## Live Deployments
+
+- **Frontend (Vercel)**: [https://1-fi-eight.vercel.app/](https://1-fi-eight.vercel.app/)
+- **Backend API (Render)**: [https://onefi-zkkz.onrender.com/](https://onefi-zkkz.onrender.com/)
+
+> **Important**: If the backend has been idle, Render's free tier spins down the web service. Please open the [Render backend link](https://onefi-zkkz.onrender.com/api/health) first to wake up the server (~30 seconds on cold start), and then open the [Vercel frontend link](https://1-fi-eight.vercel.app/) to experience the fully functional catalog and EMI configurator.
+
+---
+
 ## Features
 - **Interactive Catalog**: Browse flagship devices with real-time pricing and verified seller guarantees.
 - **Interactive Gallery**: Multi-angle high-resolution product photography with hover magnification zoom.
@@ -35,22 +46,20 @@ npm run dev
 
 ---
 
-## Deployment
+## Deployment Configuration
 
 ### Backend (Render)
-1. Create a new **Web Service** on Render connecting this repository.
-2. Configuration:
-   - **Root Directory**: `backend`
-   - **Build Command**: `npm install`
-   - **Start Command**: `npm start`
-3. Environment Variables:
-   - `MONGODB_URI`: MongoDB Atlas connection URI
-   - `CLIENT_ORIGIN`: Deployed Vercel frontend URL (or `*`)
+- **Root Directory**: `backend`
+- **Build Command**: `npm install`
+- **Start Command**: `npm start`
+- **Environment Variables**:
+  - `MONGODB_URI`: MongoDB Atlas connection URI
+  - `CLIENT_ORIGIN`: `*` (or your Vercel URL)
 
 ### Frontend (Vercel)
-1. Import this repository on Vercel.
-2. Configuration:
-   - **Root Directory**: `frontend`
-   - **Framework Preset**: `Vite`
-3. Environment Variables:
-   - `VITE_API_URL`: Deployed Render backend URL
+- **Root Directory**: `frontend`
+- **Framework Preset**: `Vite`
+- **Build Command**: `npm run build`
+- **Output Directory**: `dist`
+- **Environment Variables**:
+  - `VITE_API_URL`: `https://onefi-zkkz.onrender.com`
