@@ -1,0 +1,928 @@
+[
+  {
+    "slug": "iphone-17-pro",
+    "name": "Apple iPhone 17 Pro",
+    "brand": "Apple",
+    "description": "The latest Apple flagship with A19 Pro chip, titanium frame, and pro-grade camera system.",
+    "variants": [
+      {
+        "variantId": "iphone-17-pro-256-silver",
+        "storage": "256GB",
+        "color": "Silver",
+        "mrp": 134900,
+        "price": 127400,
+        "images": [
+          "iphone-17-pro-silver-1.png",
+          "iphone-17-pro-silver-2.png",
+          "iphone-17-pro-silver-3.png",
+          "iphone-17-pro-silver-4.png"
+        ],
+        "emiPlans": [
+          {
+            "tenureMonths": 3,
+            "interestRate": 0.0,
+            "monthlyAmount": 42467,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 6,
+            "interestRate": 0.0,
+            "monthlyAmount": 21233,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 12,
+            "interestRate": 0.0,
+            "monthlyAmount": 10617,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 24,
+            "interestRate": 0.0,
+            "monthlyAmount": 5308,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 36,
+            "interestRate": 10.5,
+            "monthlyAmount": 4654,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 48,
+            "interestRate": 10.5,
+            "monthlyAmount": 3769,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 60,
+            "interestRate": 10.5,
+            "monthlyAmount": 3238,
+            "cashback": 7500
+          }
+        ]
+      },
+      {
+        "variantId": "iphone-17-pro-256-orange",
+        "storage": "256GB",
+        "color": "Cosmic Orange",
+        "mrp": 134900,
+        "price": 127400,
+        "images": [
+          "iphone-17-pro-orange-1.png",
+          "iphone-17-pro-orange-2.png",
+          "iphone-17-pro-orange-3.png",
+          "iphone-17-pro-orange-4.png"
+        ],
+        "emiPlans": [
+          {
+            "tenureMonths": 3,
+            "interestRate": 0.0,
+            "monthlyAmount": 42467,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 6,
+            "interestRate": 0.0,
+            "monthlyAmount": 21233,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 12,
+            "interestRate": 0.0,
+            "monthlyAmount": 10617,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 24,
+            "interestRate": 0.0,
+            "monthlyAmount": 5308,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 36,
+            "interestRate": 10.5,
+            "monthlyAmount": 4654,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 48,
+            "interestRate": 10.5,
+            "monthlyAmount": 3769,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 60,
+            "interestRate": 10.5,
+            "monthlyAmount": 3238,
+            "cashback": 7500
+          }
+        ]
+      },
+      {
+        "variantId": "iphone-17-pro-512-blue",
+        "storage": "512GB",
+        "color": "Deep Blue",
+        "mrp": 154900,
+        "price": 146900,
+        "images": [
+          "iphone-17-pro-blue-1.png",
+          "iphone-17-pro-blue-2.png",
+          "iphone-17-pro-blue-3.png",
+          "iphone-17-pro-blue-4.png"
+        ],
+        "emiPlans": [
+          {
+            "tenureMonths": 3,
+            "interestRate": 0.0,
+            "monthlyAmount": 48967,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 6,
+            "interestRate": 0.0,
+            "monthlyAmount": 24483,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 12,
+            "interestRate": 0.0,
+            "monthlyAmount": 12242,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 24,
+            "interestRate": 0.0,
+            "monthlyAmount": 6121,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 36,
+            "interestRate": 10.5,
+            "monthlyAmount": 5366,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 48,
+            "interestRate": 10.5,
+            "monthlyAmount": 4346,
+            "cashback": 7500
+          },
+          {
+            "tenureMonths": 60,
+            "interestRate": 10.5,
+            "monthlyAmount": 3734,
+            "cashback": 7500
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      "A19 Pro Bionic Chip with 6-core GPU and Next-Gen Neural Engine",
+      "6.3-inch Super Retina XDR OLED Display with ProMotion 120Hz & Always-On",
+      "Pro Camera Array: 48MP Fusion Main + 48MP Ultra Wide + 48MP 5x Telephoto",
+      "Grade 5 Titanium Frame with Micro-blasted Matte Texture and Ceramic Shield Front",
+      "Action Button + Next-Gen Touch-Capacitive Camera Control Interface",
+      "USB-C 3.0 with 10Gbps Data Transfer & DisplayPort Video Out",
+      "Financed via 1Fi: 0% Interest tenures up to 24 Months backed by Mutual Fund units"
+    ],
+    "inTheBox": [
+      "Apple iPhone 17 Pro Handset",
+      "1m Braided USB-C to USB-C Cable (60W)",
+      "SIM Ejector Tool",
+      "Documentation & 1Fi Mutual Fund Pledge Verification Letter"
+    ],
+    "seller": {
+      "name": "OmniTech Retail Pvt Ltd",
+      "badge": "Apple Certified Direct Partner",
+      "rating": 4.9,
+      "reviewCount": 24890,
+      "deliveryDays": "2 - 3 Business Days (Express)",
+      "returnPolicy": "7 Days Replacement for Technical Defects",
+      "warranty": "1 Year Official Apple India Manufacturer Warranty + 1Fi Asset Guard"
+    },
+    "ratingSummary": {
+      "average": 4.8,
+      "totalRatings": 1840,
+      "totalReviews": 492,
+      "distribution": [
+        {
+          "star": 5,
+          "percentage": 84,
+          "count": 1545
+        },
+        {
+          "star": 4,
+          "percentage": 11,
+          "count": 202
+        },
+        {
+          "star": 3,
+          "percentage": 3,
+          "count": 55
+        },
+        {
+          "star": 2,
+          "percentage": 1,
+          "count": 18
+        },
+        {
+          "star": 1,
+          "percentage": 1,
+          "count": 20
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Aditya Verma",
+        "rating": 5,
+        "date": "18 August 2026",
+        "title": "Unreal camera clarity and seamless mutual fund financing!",
+        "comment": "Switching from the 14 Pro was worth every penny. The 48MP 5x optical zoom is extraordinarily sharp in low light. Financing this through 1Fi on the 12-month 0% plan was effortless\u2014my mutual funds keep compounding while I use the latest flagship.",
+        "verifiedBuyer": true,
+        "helpfulCount": 42
+      },
+      {
+        "id": "rev-2",
+        "author": "Pooja Deshmukh",
+        "rating": 5,
+        "date": "04 August 2026",
+        "title": "Cosmic Orange finish is gorgeous in person",
+        "comment": "The color is way more premium and muted copper than renders show. The battery lasts well over 1.5 days on heavy 5G usage. Packaging from OmniTech was pristine with official Apple seal intact.",
+        "verifiedBuyer": true,
+        "helpfulCount": 29
+      },
+      {
+        "id": "rev-3",
+        "author": "Rohan Mehra",
+        "rating": 4,
+        "date": "22 July 2026",
+        "title": "Solid upgrade, lightweight titanium",
+        "comment": "Noticeably lighter in the pocket than stainless steel iPhones. Display brightness in direct Indian sunlight is phenomenal. The 24-month EMI plan with zero interest made it very affordable without touching savings.",
+        "verifiedBuyer": true,
+        "helpfulCount": 15
+      }
+    ],
+    "specifications": [
+      {
+        "category": "General",
+        "items": [
+          {
+            "key": "Model Name",
+            "value": "iPhone 17 Pro"
+          },
+          {
+            "key": "Model Number",
+            "value": "A3102"
+          },
+          {
+            "key": "Color / Finish",
+            "value": "Natural Titanium / Cosmic Orange / Deep Blue"
+          },
+          {
+            "key": "SIM Type",
+            "value": "Dual SIM (nano-SIM and eSIM)"
+          },
+          {
+            "key": "Operating System",
+            "value": "iOS 20 with Apple Intelligence 2.0"
+          }
+        ]
+      },
+      {
+        "category": "Display Features",
+        "items": [
+          {
+            "key": "Display Size",
+            "value": "15.93 cm (6.3 inch)"
+          },
+          {
+            "key": "Resolution",
+            "value": "2622 x 1206 Pixels at 460 ppi"
+          },
+          {
+            "key": "Display Type",
+            "value": "Super Retina XDR OLED with Always-On"
+          },
+          {
+            "key": "Refresh Rate",
+            "value": "Adaptive 1Hz - 120Hz ProMotion"
+          },
+          {
+            "key": "Peak Brightness",
+            "value": "3,000 nits Outdoor Peak, 1,600 nits HDR"
+          }
+        ]
+      },
+      {
+        "category": "Processor & Memory",
+        "items": [
+          {
+            "key": "Processor Chip",
+            "value": "A19 Pro Bionic (3nm architecture)"
+          },
+          {
+            "key": "CPU Cores",
+            "value": "6 Core (2 performance + 4 efficiency)"
+          },
+          {
+            "key": "GPU Cores",
+            "value": "6-Core Desktop Class GPU with Hardware Ray Tracing"
+          },
+          {
+            "key": "Neural Engine",
+            "value": "16-Core Neural Engine (38 TOPS)"
+          }
+        ]
+      },
+      {
+        "category": "Camera System",
+        "items": [
+          {
+            "key": "Primary Rear Camera",
+            "value": "48MP Fusion (24mm, f/1.78, Sensor-shift OIS)"
+          },
+          {
+            "key": "Ultra Wide Camera",
+            "value": "48MP (13mm, f/2.2, 120\u00b0 FOV, Macro Focus)"
+          },
+          {
+            "key": "Telephoto Camera",
+            "value": "48MP 5x Optical Zoom (120mm, f/2.8, 3D OIS)"
+          },
+          {
+            "key": "Front Selfie Camera",
+            "value": "18MP TrueDepth with Autofocus and f/1.9 aperture"
+          },
+          {
+            "key": "Video Recording",
+            "value": "4K ProRes at 120 fps with Log encoding & ACES"
+          }
+        ]
+      },
+      {
+        "category": "Battery & Power",
+        "items": [
+          {
+            "key": "Battery Life",
+            "value": "Up to 29 hours Video Playback"
+          },
+          {
+            "key": "Wired Fast Charging",
+            "value": "50% charge in 25 minutes with 30W adapter"
+          },
+          {
+            "key": "Wireless Charging",
+            "value": "MagSafe and Qi2 wireless charging up to 25W"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "samsung-galaxy-s24-ultra",
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "description": "Samsung's premium flagship with S Pen, 200MP camera, and titanium build.",
+    "variants": [
+      {
+        "variantId": "s24-ultra-256-black",
+        "storage": "256GB",
+        "color": "Titanium Black",
+        "mrp": 129999,
+        "price": 119999,
+        "images": [
+          "s24-ultra-black-1.png",
+          "s24-ultra-black-2.png",
+          "s24-ultra-black-3.png",
+          "s24-ultra-black-4.png"
+        ],
+        "emiPlans": [
+          {
+            "tenureMonths": 3,
+            "interestRate": 0.0,
+            "monthlyAmount": 40000,
+            "cashback": 6000
+          },
+          {
+            "tenureMonths": 6,
+            "interestRate": 0.0,
+            "monthlyAmount": 20000,
+            "cashback": 6000
+          },
+          {
+            "tenureMonths": 12,
+            "interestRate": 0.0,
+            "monthlyAmount": 10000,
+            "cashback": 6000
+          },
+          {
+            "tenureMonths": 24,
+            "interestRate": 0.0,
+            "monthlyAmount": 5000,
+            "cashback": 6000
+          },
+          {
+            "tenureMonths": 36,
+            "interestRate": 10.5,
+            "monthlyAmount": 4383,
+            "cashback": 6000
+          },
+          {
+            "tenureMonths": 48,
+            "interestRate": 10.5,
+            "monthlyAmount": 3550,
+            "cashback": 6000
+          },
+          {
+            "tenureMonths": 60,
+            "interestRate": 10.5,
+            "monthlyAmount": 3050,
+            "cashback": 6000
+          }
+        ]
+      },
+      {
+        "variantId": "s24-ultra-512-gray",
+        "storage": "512GB",
+        "color": "Titanium Gray",
+        "mrp": 144999,
+        "price": 134999,
+        "images": [
+          "s24-ultra-gray-1.png",
+          "s24-ultra-gray-2.png",
+          "s24-ultra-gray-3.png",
+          "s24-ultra-gray-4.png"
+        ],
+        "emiPlans": [
+          {
+            "tenureMonths": 3,
+            "interestRate": 0.0,
+            "monthlyAmount": 45000,
+            "cashback": 6000
+          },
+          {
+            "tenureMonths": 6,
+            "interestRate": 0.0,
+            "monthlyAmount": 22500,
+            "cashback": 6000
+          },
+          {
+            "tenureMonths": 12,
+            "interestRate": 0.0,
+            "monthlyAmount": 11250,
+            "cashback": 6000
+          },
+          {
+            "tenureMonths": 24,
+            "interestRate": 0.0,
+            "monthlyAmount": 5625,
+            "cashback": 6000
+          },
+          {
+            "tenureMonths": 36,
+            "interestRate": 10.5,
+            "monthlyAmount": 4931,
+            "cashback": 6000
+          },
+          {
+            "tenureMonths": 48,
+            "interestRate": 10.5,
+            "monthlyAmount": 3994,
+            "cashback": 6000
+          },
+          {
+            "tenureMonths": 60,
+            "interestRate": 10.5,
+            "monthlyAmount": 3431,
+            "cashback": 6000
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      "Snapdragon 8 Gen 3 for Galaxy (4nm) with Overclocked Adreno 750",
+      "6.8-inch Dynamic AMOLED 2X Flat Display with Corning Gorilla Armor Anti-Reflective Glass",
+      "Quad Camera: 200MP Main + 50MP 5x Periscope + 10MP 3x Telephoto + 12MP Ultra-Wide",
+      "Built-in S-Pen Stylus with Bluetooth Air Actions and 2.8ms Latency",
+      "Titanium Armor Frame with IP68 Water and Dust Resistance",
+      "Galaxy AI: Circle to Search, Live Call Translate, Generative Photo Edit",
+      "Financed via 1Fi: 0% Interest EMI backed by Mutual Fund units"
+    ],
+    "inTheBox": [
+      "Samsung Galaxy S24 Ultra Handset with Embedded S-Pen",
+      "USB Type-C to Type-C Cable (5A)",
+      "SIM Ejection Pin",
+      "Quick Start Guide & 1Fi Mutual Fund Pledge Certificate"
+    ],
+    "seller": {
+      "name": "OmniTech Retail Pvt Ltd",
+      "badge": "Samsung Authorized Enterprise Partner",
+      "rating": 4.8,
+      "reviewCount": 19120,
+      "deliveryDays": "2 - 3 Business Days (Express)",
+      "returnPolicy": "7 Days Replacement Policy",
+      "warranty": "1 Year Comprehensive Samsung India Warranty"
+    },
+    "ratingSummary": {
+      "average": 4.7,
+      "totalRatings": 1210,
+      "totalReviews": 310,
+      "distribution": [
+        {
+          "star": 5,
+          "percentage": 79,
+          "count": 956
+        },
+        {
+          "star": 4,
+          "percentage": 14,
+          "count": 169
+        },
+        {
+          "star": 3,
+          "percentage": 4,
+          "count": 48
+        },
+        {
+          "star": 2,
+          "percentage": 2,
+          "count": 24
+        },
+        {
+          "star": 1,
+          "percentage": 1,
+          "count": 13
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "id": "rev-s1",
+        "author": "Karan Singhal",
+        "rating": 5,
+        "date": "12 August 2026",
+        "title": "Anti-reflective display and S-Pen make this unbeatable",
+        "comment": "The Gorilla Armor reduces glare dramatically compared to my older phone. 200MP camera captures incredible textures. 0% EMI over 24 months with zero down payment via 1Fi was processed in under 5 minutes.",
+        "verifiedBuyer": true,
+        "helpfulCount": 38
+      },
+      {
+        "id": "rev-s2",
+        "author": "Sneha Nair",
+        "rating": 4,
+        "date": "29 July 2026",
+        "title": "A productivity powerhouse",
+        "comment": "Galaxy AI note summarization saves hours in meetings. S-Pen feels like a real pencil. Battery comfortably reaches end of day with 35% left.",
+        "verifiedBuyer": true,
+        "helpfulCount": 19
+      }
+    ],
+    "specifications": [
+      {
+        "category": "General",
+        "items": [
+          {
+            "key": "Model Name",
+            "value": "Galaxy S24 Ultra 5G"
+          },
+          {
+            "key": "SIM Type",
+            "value": "Dual SIM (2 Nano-SIMs or eSIM)"
+          },
+          {
+            "key": "Operating System",
+            "value": "Android 14 with One UI 6.1 (7 Years OS Updates)"
+          }
+        ]
+      },
+      {
+        "category": "Display Features",
+        "items": [
+          {
+            "key": "Display Size",
+            "value": "17.27 cm (6.8 inch)"
+          },
+          {
+            "key": "Resolution",
+            "value": "QHD+ 3120 x 1440 Pixels"
+          },
+          {
+            "key": "Glass Protection",
+            "value": "Corning Gorilla Armor (Anti-Reflective)"
+          },
+          {
+            "key": "Peak Brightness",
+            "value": "2,600 nits Dynamic AMOLED 2X"
+          }
+        ]
+      },
+      {
+        "category": "Camera System",
+        "items": [
+          {
+            "key": "Rear Quad Camera",
+            "value": "200MP (OIS) + 50MP 5x (OIS) + 10MP 3x (OIS) + 12MP Ultra-Wide"
+          },
+          {
+            "key": "Front Camera",
+            "value": "12MP Dual Pixel AF (f/2.2)"
+          },
+          {
+            "key": "Zoom Capability",
+            "value": "3x and 5x Optical Zoom, 100x Space Zoom"
+          }
+        ]
+      },
+      {
+        "category": "Battery & Power",
+        "items": [
+          {
+            "key": "Battery Capacity",
+            "value": "5,000 mAh"
+          },
+          {
+            "key": "Fast Charging",
+            "value": "45W Wired (65% in 30 mins) + 15W Fast Wireless"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "oneplus-12",
+    "name": "OnePlus 12",
+    "brand": "OnePlus",
+    "description": "Flagship performance with Snapdragon 8 Gen 3, Hasselblad camera, and 100W fast charging.",
+    "variants": [
+      {
+        "variantId": "oneplus-12-256-black",
+        "storage": "256GB",
+        "color": "Silky Black",
+        "mrp": 69999,
+        "price": 64999,
+        "images": [
+          "oneplus-12-black-1.png",
+          "oneplus-12-black-2.png",
+          "oneplus-12-black-3.png",
+          "oneplus-12-black-4.png"
+        ],
+        "emiPlans": [
+          {
+            "tenureMonths": 3,
+            "interestRate": 0.0,
+            "monthlyAmount": 21666,
+            "cashback": 4000
+          },
+          {
+            "tenureMonths": 6,
+            "interestRate": 0.0,
+            "monthlyAmount": 10833,
+            "cashback": 4000
+          },
+          {
+            "tenureMonths": 12,
+            "interestRate": 0.0,
+            "monthlyAmount": 5417,
+            "cashback": 4000
+          },
+          {
+            "tenureMonths": 24,
+            "interestRate": 0.0,
+            "monthlyAmount": 2708,
+            "cashback": 4000
+          },
+          {
+            "tenureMonths": 36,
+            "interestRate": 10.5,
+            "monthlyAmount": 2374,
+            "cashback": 4000
+          },
+          {
+            "tenureMonths": 48,
+            "interestRate": 10.5,
+            "monthlyAmount": 1923,
+            "cashback": 4000
+          },
+          {
+            "tenureMonths": 60,
+            "interestRate": 10.5,
+            "monthlyAmount": 1652,
+            "cashback": 4000
+          }
+        ]
+      },
+      {
+        "variantId": "oneplus-12-512-green",
+        "storage": "512GB",
+        "color": "Flowy Emerald",
+        "mrp": 74999,
+        "price": 69999,
+        "images": [
+          "oneplus-12-green-1.png",
+          "oneplus-12-green-2.png",
+          "oneplus-12-green-3.png",
+          "oneplus-12-green-4.png"
+        ],
+        "emiPlans": [
+          {
+            "tenureMonths": 3,
+            "interestRate": 0.0,
+            "monthlyAmount": 23333,
+            "cashback": 4000
+          },
+          {
+            "tenureMonths": 6,
+            "interestRate": 0.0,
+            "monthlyAmount": 11666,
+            "cashback": 4000
+          },
+          {
+            "tenureMonths": 12,
+            "interestRate": 0.0,
+            "monthlyAmount": 5833,
+            "cashback": 4000
+          },
+          {
+            "tenureMonths": 24,
+            "interestRate": 0.0,
+            "monthlyAmount": 2917,
+            "cashback": 4000
+          },
+          {
+            "tenureMonths": 36,
+            "interestRate": 10.5,
+            "monthlyAmount": 2557,
+            "cashback": 4000
+          },
+          {
+            "tenureMonths": 48,
+            "interestRate": 10.5,
+            "monthlyAmount": 2071,
+            "cashback": 4000
+          },
+          {
+            "tenureMonths": 60,
+            "interestRate": 10.5,
+            "monthlyAmount": 1779,
+            "cashback": 4000
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      "Snapdragon 8 Gen 3 Mobile Platform with Dual Cryo-velocity VC Liquid Cooling",
+      "6.82-inch 2K ProXDR Display with 4,500 nits Peak Brightness & Aqua Touch",
+      "4th Gen Hasselblad Camera System: 50MP Sony LYT-808 + 64MP 3x Periscope + 48MP Ultra-Wide",
+      "5,400 mAh Dual-Cell Battery with 100W SUPERVOOC Fast Wired + 50W AIRVOOC Wireless",
+      "Emerald Flow / Silky Black Aerospace-Grade Glass Backing",
+      "Financed via 1Fi: 0% Interest tenures backed by Mutual Fund units"
+    ],
+    "inTheBox": [
+      "OnePlus 12 Handset",
+      "100W SUPERVOOC Power Adapter",
+      "Type-A to Type-C Red Cable",
+      "Protective Silicone Case",
+      "SIM Tray Ejector & 1Fi Welcome Kit"
+    ],
+    "seller": {
+      "name": "OmniTech Retail Pvt Ltd",
+      "badge": "OnePlus Premium Partner",
+      "rating": 4.8,
+      "reviewCount": 16750,
+      "deliveryDays": "2 - 3 Business Days (Express)",
+      "returnPolicy": "7 Days Replacement Policy",
+      "warranty": "1 Year Brand Warranty on Phone & 6 Months on Accessories"
+    },
+    "ratingSummary": {
+      "average": 4.7,
+      "totalRatings": 890,
+      "totalReviews": 215,
+      "distribution": [
+        {
+          "star": 5,
+          "percentage": 81,
+          "count": 721
+        },
+        {
+          "star": 4,
+          "percentage": 12,
+          "count": 107
+        },
+        {
+          "star": 3,
+          "percentage": 4,
+          "count": 35
+        },
+        {
+          "star": 2,
+          "percentage": 2,
+          "count": 18
+        },
+        {
+          "star": 1,
+          "percentage": 1,
+          "count": 9
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "id": "rev-op1",
+        "author": "Vikram Patel",
+        "rating": 5,
+        "date": "15 August 2026",
+        "title": "Charging speed is witchcraft and battery is massive",
+        "comment": "0 to 100% in 26 minutes with the included 100W charger in the box! Hasselblad color tuning makes skin tones look rich and cinematic. Getting \u20b97,500 cashback into my mutual fund portfolio was an incredible bonus.",
+        "verifiedBuyer": true,
+        "helpfulCount": 31
+      },
+      {
+        "id": "rev-op2",
+        "author": "Deepak Joshi",
+        "rating": 5,
+        "date": "02 August 2026",
+        "title": "Best value flagship of 2026",
+        "comment": "Flowy emerald green is mesmerizing. Screen gets bright enough to read in blazing noon sun without squinting. Top-tier performance.",
+        "verifiedBuyer": true,
+        "helpfulCount": 24
+      }
+    ],
+    "specifications": [
+      {
+        "category": "General",
+        "items": [
+          {
+            "key": "Model Name",
+            "value": "OnePlus 12 5G"
+          },
+          {
+            "key": "SIM Type",
+            "value": "Dual Nano-SIM"
+          },
+          {
+            "key": "Operating System",
+            "value": "OxygenOS 14 based on Android 14"
+          }
+        ]
+      },
+      {
+        "category": "Display Features",
+        "items": [
+          {
+            "key": "Display Size",
+            "value": "17.32 cm (6.82 inch)"
+          },
+          {
+            "key": "Resolution",
+            "value": "3168 x 1440 QHD+ 2K OLED"
+          },
+          {
+            "key": "Touch Tech",
+            "value": "Aqua Touch (usable with wet hands)"
+          },
+          {
+            "key": "Peak Brightness",
+            "value": "4,500 nits with DisplayMate A+ Certification"
+          }
+        ]
+      },
+      {
+        "category": "Camera System",
+        "items": [
+          {
+            "key": "Main Sensor",
+            "value": "50MP Sony LYT-808 (f/1.6, OIS, 1/1.4\")"
+          },
+          {
+            "key": "Periscope Telephoto",
+            "value": "64MP OmniVision OV64B (3x Optical, 120x Digital Zoom)"
+          },
+          {
+            "key": "Ultra-Wide",
+            "value": "48MP Sony IMX581 (114\u00b0 FOV, 3.5cm Macro)"
+          },
+          {
+            "key": "Front Camera",
+            "value": "32MP Sony IMX615 with 4K Video"
+          }
+        ]
+      },
+      {
+        "category": "Battery & Power",
+        "items": [
+          {
+            "key": "Battery Capacity",
+            "value": "5,400 mAh Dual-Cell"
+          },
+          {
+            "key": "SUPERVOOC Charging",
+            "value": "100W Wired (Included in Box) + 50W AIRVOOC Wireless"
+          }
+        ]
+      }
+    ]
+  }
+]
